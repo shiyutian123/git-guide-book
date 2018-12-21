@@ -1,3 +1,4 @@
-# My Awesome Book
+# 介绍
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本指南旨在为基于GIT版本管理的项目，来提供规范化的帮助指南
+
